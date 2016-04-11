@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+h1 {
+	color: rgb(8, 88, 46)
+	;
+}
+body {
+	background-image:url("http://i.stack.imgur.com/jGlzr.png");
+	font-family: 'Lato', Georgia, sans-serif;
+}
+h3 {
+	color: rgb(8, 88, 46);
+}
+
+li {
+	font: 17px times;
+}
+
+h3 {
+	border: 3px solid #000;
+	margin: 15px;
+	padding: 10px;
+}
